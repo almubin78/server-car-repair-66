@@ -1,0 +1,4 @@
+user: mubin646
+pass: QeQEtZmhIEBW2BLY
+DatabaseName: genusCar
+Collection Name: services
